@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ClipPulse</string>
+    <string name="tagline">AI Viral Video Clipper</string>
+    <string name="hero_headline">Turn Long Videos Into Viral 9:16 Reels</string>
+    <string name="hero_subtitle">Auto-detect top engaging hooks, overlay Hindi, Hinglish &amp; English kinetic captions, and export crisp vertical MP4 clips right on your phone.</string>
+    <string name="action_pick_video">Select Video from Gallery</string>
+    <string name="action_browse_files">Browse Device Files</string>
+    <string name="action_export_mp4">Export 9:16 MP4</string>
+    <string name="action_new_video">New Video</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_share_clip">Share Clip</string>
+    <string name="action_done">Done</string>
+    <string name="action_copy_title">Copy Title &amp; Tags</string>
+    <string name="notice_placeholder_ai">Sample AI mode: Firebase AI Logic is not enabled, so sample viral timestamps &amp; bilingual captions are shown. On-device 9:16 cropping, caption burn-in &amp; MP4 export work fully with your video.</string>
+    <string name="notice_max_duration">Videos over 15 minutes are trimmed to the first 15 minutes for smooth mobile processing.</string>
+    <string name="cd_studio_hero">ClipPulse dark creator studio artwork</string>
+    <string name="cd_play_pause">Toggle clip playback</string>
+    <string name="cd_mute_toggle">Toggle audio mute</string>
+    <string name="cd_back_upload">Back to video upload</string>
+    <string name="cd_export_video">Export vertical MP4 clip</string>
+</resources>

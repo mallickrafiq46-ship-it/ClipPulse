@@ -1,0 +1,8 @@
+{
+  "name": "ClipGenie AI",
+  "description": "Transform long videos into viral 9:16 mobile clips with AI-powered highlights, smart cropping, and stylish captions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
